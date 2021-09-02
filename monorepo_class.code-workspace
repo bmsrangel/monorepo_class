@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "app_client"
+		},
+		{
+			"path": "core_module"
+		},
+		{
+			"path": "project_design_system"
+		},
+		{
+			"path": "dependency_module"
+		}
+	],
+	"settings": {}
+}
