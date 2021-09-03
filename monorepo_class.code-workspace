@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "dependency_module"
+		},
+		{
+			"path": "home_module"
 		}
 	],
 	"settings": {}
